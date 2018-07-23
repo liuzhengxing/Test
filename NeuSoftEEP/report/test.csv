@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1520409047940,2858,保养计划创建,200,,接口测试 1-1,text,true,,213,672,1,1,2857,0,47

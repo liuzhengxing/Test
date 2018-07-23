@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f9a38ec-e511-4598-99a0-6058877fa6e4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_create_OrderCreate_test_order_create_wasteQty_wrong.coverage" NAME="py.test for test_manufacture_order_create.OrderCreate.test_order_create_wasteQty_wrong Coverage Results" MODIFIED="1524115883939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_changestatus_OrderChangeStatus.coverage" NAME="py.test for test_manufacture_order_changestatus.OrderChangeStatus Coverage Results" MODIFIED="1524129502113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_create_OrderCreate.coverage" NAME="py.test for test_manufacture_order_create.OrderCreate Coverage Results" MODIFIED="1524032819059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp30.coverage" NAME="tmp30 Coverage Results" MODIFIED="1525834067721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_py.coverage" NAME="py.test in test.py Coverage Results" MODIFIED="1531704188690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_create_OrderCreate_test_order_create_planBeginTime_err.coverage" NAME="py.test for test_manufacture_order_create.OrderCreate.test_order_create_planBeginTime_err Coverage Results" MODIFIED="1524040292709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_layout_OrderLayOut_test_order_layout_true.coverage" NAME="py.test for test_manufacture_order_layout.OrderLayOut.test_order_layout_true Coverage Results" MODIFIED="1524122242171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_order_changestatus_py.coverage" NAME="py.test in test_manufacture_order_changestatus.py Coverage Results" MODIFIED="1524877400893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_create_OrderCreate_test_order_create_true.coverage" NAME="py.test for test_manufacture_order_create.OrderCreate.test_order_create_true Coverage Results" MODIFIED="1524901938118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_workorder_WorkOrderCreate_test_workorder.coverage" NAME="py.test for tmp_workorder.WorkOrderCreate.test_workorder Coverage Results" MODIFIED="1524466248887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_orderbom_save_OrderBomSave_test_manufacture_wobom_manual.coverage" NAME="py.test for test_manufacture_orderbom_save.OrderBomSave.test_manufacture_wobom_manual Coverage Results" MODIFIED="1525224890962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_inspectplan_py.coverage" NAME="py.test in test_inspectplan_create.py Coverage Results" MODIFIED="1519616085484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_orderroute_save_OrderRouteSave_test_manufacture_woroute_manual.coverage" NAME="py.test for test_manufacture_orderroute_save.OrderRouteSave.test_manufacture_woroute_manual Coverage Results" MODIFIED="1524906491167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单工艺" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_InspectPlan_test_inspectplan_create.coverage" NAME="py.test for test_inspectplan.InspectPlan.test_inspectplan_create Coverage Results" MODIFIED="1519615462350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_equipmentmanage_maintainmanage_maintainplan_detailselect_MaintainPlanSelect.coverage" NAME="py.test for test_equipmentmanage_maintainmanage_maintainplan_detailselect.MaintainPlanSelect Coverage Results" MODIFIED="1519698538417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_Test_test_order_layout_true.coverage" NAME="py.test for tmp.Test.test_order_layout_true Coverage Results" MODIFIED="1524122496034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp12.coverage" NAME="tmp12 Coverage Results" MODIFIED="1525833756092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp21.coverage" NAME="tmp21 Coverage Results" MODIFIED="1525833908618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_refecreate_WorkOrderRefeCreate.coverage" NAME="py.test for test_manufacture_workorder_refecreate.WorkOrderRefeCreate Coverage Results" MODIFIED="1524903074847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1516842673091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tests.coverage" NAME="tests Coverage Results" MODIFIED="1516591956599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testweb/autotest" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_order_public_test_test_order_create_planBeginTime_none.coverage" NAME="py.test for order_public.test.test_order_create_planBeginTime_none Coverage Results" MODIFIED="1524037856042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_woroute_save_WorkOrderRouteSave_test_manufacture_woroute_manual.coverage" NAME="py.test for test_manufacture_woroute_save.WorkOrderRouteSave.test_manufacture_woroute_manual Coverage Results" MODIFIED="1525250442503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单工艺" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp8.coverage" NAME="tmp8 Coverage Results" MODIFIED="1525833704718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$Unittests_for_test__Ywdy.coverage" NAME="Unittests for test_业务单元.Ywdy Coverage Results" MODIFIED="1514869199513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/业务建模/系统管理/组织管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_layout_OrderLayOut.coverage" NAME="py.test for test_manufacture_order_layout.OrderLayOut Coverage Results" MODIFIED="1524902253157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp27.coverage" NAME="tmp27 Coverage Results" MODIFIED="1525834002605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_order_public_test.coverage" NAME="py.test for order_public.test Coverage Results" MODIFIED="1524036666182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp1__1_.coverage" NAME="tmp1 (1) Coverage Results" MODIFIED="1525830120796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_equipmentmanage_maintainmanage_maintainbill_dispatch_MaintainBillDispatch_test_maintainbill_dispatch_again.coverage" NAME="py.test for test_equipmentmanage_maintainmanage_maintainbill_dispatch.MaintainBillDispatch.test_maintainbill_dispatch_again Coverage Results" MODIFIED="1519711704436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_InspectPlan.coverage" NAME="py.test for test_inspectplan.InspectPlan Coverage Results" MODIFIED="1519615550365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_wobom_allot_WorkOrderBomAllot_test_manufacture_wobom_allot.coverage" NAME="py.test for test_manufacture_wobom_allot.WorkOrderBomAllot.test_manufacture_wobom_allot Coverage Results" MODIFIED="1524892176259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp18.coverage" NAME="tmp18 Coverage Results" MODIFIED="1525833853916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test.coverage" NAME="test Coverage Results" MODIFIED="1525345026524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$zentao.coverage" NAME="zentao Coverage Results" MODIFIED="1518243867712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$bmProduct.coverage" NAME="bmProduct Coverage Results" MODIFIED="1522375925598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_Test_test_order_create_planBeginTime_err.coverage" NAME="py.test for tmp.Test.test_order_create_planBeginTime_err Coverage Results" MODIFIED="1524105790386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp17.coverage" NAME="tmp17 Coverage Results" MODIFIED="1525833838057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_workorder_Test_test_order.coverage" NAME="py.test for tmp_workorder.Test.test_order Coverage Results" MODIFIED="1524214755563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_wobom_query_WorkOrderBomQuery_test_manufacture_wobom_manual.coverage" NAME="py.test for test_manufacture_wobom_query.WorkOrderBomQuery.test_manufacture_wobom_manual Coverage Results" MODIFIED="1524895421736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_create_WorkOrderCreate.coverage" NAME="py.test for test_manufacture_workorder_create.WorkOrderCreate Coverage Results" MODIFIED="1524902862455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$__1_.coverage" NAME="登录 (1) Coverage Results" MODIFIED="1515668766942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/公共部分" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_Test.coverage" NAME="py.test for test.Test Coverage Results" MODIFIED="1524101854955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_Test.coverage" NAME="py.test for tmp.Test Coverage Results" MODIFIED="1524202399052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$add__1_.coverage" NAME="add (1) Coverage Results" MODIFIED="1523953578183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺建模/工序管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_maintainplan_delete_py.coverage" NAME="py.test in test_maintainplan_delete.py Coverage Results" MODIFIED="1519693027606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_savesort_WorkOrderSaveSort.coverage" NAME="py.test for test_manufacture_workorder_savesort.WorkOrderSaveSort Coverage Results" MODIFIED="1524906822471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$.coverage" NAME="创建订单 Coverage Results" MODIFIED="1526278094487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_equipmentmanage_maintainmanage_maintainbill_dispatch_py.coverage" NAME="py.test in test_equipmentmanage_maintainmanage_maintainbill_dispatch.py Coverage Results" MODIFIED="1519711732081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_create_OrderCreate_test_order_create_code_none.coverage" NAME="py.test for test_manufacture_order_create.OrderCreate.test_order_create_code_none Coverage Results" MODIFIED="1524033980134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1524102551560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp28.coverage" NAME="tmp28 Coverage Results" MODIFIED="1525834025512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$woroute_public.coverage" NAME="woroute_public Coverage Results" MODIFIED="1525248652148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单工艺" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp11.coverage" NAME="tmp11 Coverage Results" MODIFIED="1525833742056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test_ywdy.coverage" NAME="test_ywdy Coverage Results" MODIFIED="1514861994996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases/businessModeling/systemsManagement/organizedAdministration" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_woroute_save_WorkOrderRouteSave.coverage" NAME="py.test for test_manufacture_woroute_save.WorkOrderRouteSave Coverage Results" MODIFIED="1525250951482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单工艺" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$Unittests_for_test__Ywdy_test_ywdy_create.coverage" NAME="Unittests for test_业务单元.Ywdy.test_ywdy_create Coverage Results" MODIFIED="1514864841739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/业务建模/系统管理/组织管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_Test_test_order_layout.coverage" NAME="py.test for tmp.Test.test_order_layout Coverage Results" MODIFIED="1524122671456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1525845998429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_delete_InspectPlanDelete_test_inspectplan_delete_simple.coverage" NAME="py.test for test_inspectplan_delete.InspectPlanDelete.test_inspectplan_delete_simple Coverage Results" MODIFIED="1519623306566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_maintainplan_create_py.coverage" NAME="py.test in test_maintainplan_create.py Coverage Results" MODIFIED="1519632489720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_equipmentmanage_maintainmanage_maintainbill_record_MaintainBillRecord_test_maintainbill_record.coverage" NAME="py.test for test_equipmentmanage_maintainmanage_maintainbill_record.MaintainBillRecord.test_maintainbill_record Coverage Results" MODIFIED="1519718684350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp6.coverage" NAME="tmp6 Coverage Results" MODIFIED="1525846148068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_orderroute_save_OrderRouteSave.coverage" NAME="py.test for test_manufacture_orderroute_save.OrderRouteSave Coverage Results" MODIFIED="1525248164799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单工艺" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp19.coverage" NAME="tmp19 Coverage Results" MODIFIED="1525833870970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_order_Test.coverage" NAME="py.test for tmp_order.Test Coverage Results" MODIFIED="1524218647984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_tmp_workorder_py.coverage" NAME="py.test in tmp_workorder.py Coverage Results" MODIFIED="1524475553348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp22.coverage" NAME="tmp22 Coverage Results" MODIFIED="1525833918663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_TestPlanOrder_test_planorder_create1.coverage" NAME="py.test for test.TestPlanOrder.test_planorder_create1 Coverage Results" MODIFIED="1531720154664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp25.coverage" NAME="tmp25 Coverage Results" MODIFIED="1525833954794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp16.coverage" NAME="tmp16 Coverage Results" MODIFIED="1525833801040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test_case__1_.coverage" NAME="test_case (1) Coverage Results" MODIFIED="1514860313044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_delete_InspectPlanDelete_test_inspectplan_delete_more.coverage" NAME="py.test for test_inspectplan_delete.InspectPlanDelete.test_inspectplan_delete_more Coverage Results" MODIFIED="1519623803598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$GID.coverage" NAME="查询物料GID Coverage Results" MODIFIED="1525844177315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_test_test_order_create_planBeginTime_err.coverage" NAME="py.test for test.test.test_order_create_planBeginTime_err Coverage Results" MODIFIED="1524101527108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$executest.coverage" NAME="executest Coverage Results" MODIFIED="1518255535666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$Unittests_in__py.coverage" NAME="Unittests in 登录.py Coverage Results" MODIFIED="1514865783385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/公共部分" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_release_OrderRelease_test_order_batch_one.coverage" NAME="py.test for test_manufacture_order_release.OrderRelease.test_order_batch_one Coverage Results" MODIFIED="1524877849325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_tmp_py.coverage" NAME="py.test in tmp.py Coverage Results" MODIFIED="1524203757921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp3.coverage" NAME="tmp3 Coverage Results" MODIFIED="1525842646410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_create_OrderCreate_test_order_create_workCenterGid_none.coverage" NAME="py.test for test_manufacture_order_create.OrderCreate.test_order_create_workCenterGid_none Coverage Results" MODIFIED="1524035127609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$params.coverage" NAME="params Coverage Results" MODIFIED="1516957189102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$order_public.coverage" NAME="order_public Coverage Results" MODIFIED="1524045697100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp20.coverage" NAME="tmp20 Coverage Results" MODIFIED="1525833892503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp3__1_.coverage" NAME="tmp3 (1) Coverage Results" MODIFIED="1525830124823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_wobom_query_py.coverage" NAME="py.test in test_manufacture_wobom_query.py Coverage Results" MODIFIED="1524894482440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$run_cases.coverage" NAME="run_cases Coverage Results" MODIFIED="1531720286260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$equipmentmanage_public.coverage" NAME="equipmentmanage_public Coverage Results" MODIFIED="1519633728228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_equipmentmanage_maintainmanage_maintainbill_save_MaintainBillSave_test_maintainbill_save.coverage" NAME="py.test for test_equipmentmanage_maintainmanage_maintainbill_save.MaintainBillSave.test_maintainbill_save Coverage Results" MODIFIED="1519719598454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp31.coverage" NAME="tmp31 Coverage Results" MODIFIED="1525834079746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp1.coverage" NAME="tmp1 Coverage Results" MODIFIED="1525846040654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_equipmentmanage_maintainmanage_maintainbill_dispatch_MaintainBillDispatch_test_maintainbill_dispatch_simple.coverage" NAME="py.test for test_equipmentmanage_maintainmanage_maintainbill_dispatch.MaintainBillDispatch.test_maintainbill_dispatch_simple Coverage Results" MODIFIED="1519711625483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_create_WorkOrderCreate_test_workorder_create_true.coverage" NAME="py.test for test_manufacture_workorder_create.WorkOrderCreate.test_workorder_create_true Coverage Results" MODIFIED="1524883688542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_TestPlanOrder_test_planorder_create.coverage" NAME="py.test for test.TestPlanOrder.test_planorder_create Coverage Results" MODIFIED="1531474474839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_merge_OrderMerge_test_order_merge_more.coverage" NAME="py.test for test_manufacture_order_merge.OrderMerge.test_order_merge_more Coverage Results" MODIFIED="1524877653550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_wobom_allot_WorkOrderBomAllot.coverage" NAME="py.test for test_manufacture_wobom_allot.WorkOrderBomAllot Coverage Results" MODIFIED="1524884838305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_merge_OrderMerge_test_order_merge_one.coverage" NAME="py.test for test_manufacture_order_merge.OrderMerge.test_order_merge_one Coverage Results" MODIFIED="1524880177311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp14.coverage" NAME="tmp14 Coverage Results" MODIFIED="1525833784911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_inspectplan_senddown_py.coverage" NAME="py.test in test_inspectplan_senddown.py Coverage Results" MODIFIED="1519625590935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_woroute_save_py.coverage" NAME="py.test in test_manufacture_woroute_save.py Coverage Results" MODIFIED="1525250390924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单工艺" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$measureunit_public.coverage" NAME="measureunit_public Coverage Results" MODIFIED="1519806970420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/物料建模/计量单位" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_listselect_InspectPlanListSelect_test_inspectplan_listselect_all.coverage" NAME="py.test for test_inspectplan_listselect.InspectPlanListSelect.test_inspectplan_listselect_all Coverage Results" MODIFIED="1519616684747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_Test_test_order_create.coverage" NAME="py.test for tmp.Test.test_order_create Coverage Results" MODIFIED="1524116925107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_test1.coverage" NAME="py.test for test.test1 Coverage Results" MODIFIED="1520307493929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_equipmentmanage_maintainmanage_maintainplan_senddown_py.coverage" NAME="py.test in test_equipmentmanage_maintainmanage_maintainplan_senddown.py Coverage Results" MODIFIED="1519700131901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_Test_test_order.coverage" NAME="py.test for tmp.Test.test_order Coverage Results" MODIFIED="1524204472704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_senddown_InspectPlanSenddown_test_inspectplan_senddown_simple.coverage" NAME="py.test for test_inspectplan_senddown.InspectPlanSenddown.test_inspectplan_senddown_simple Coverage Results" MODIFIED="1519625475172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_wobom_allot_py.coverage" NAME="py.test in test_manufacture_wobom_allot.py Coverage Results" MODIFIED="1524884914412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_modify_OrderModify.coverage" NAME="py.test for test_manufacture_order_modify.OrderModify Coverage Results" MODIFIED="1524880029615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp15.coverage" NAME="tmp15 Coverage Results" MODIFIED="1525833792984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1516930577285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testweb/testweb" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test_template.coverage" NAME="test_template Coverage Results" MODIFIED="1515988715909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/测试部分" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_equipmentmanage_inspectmanage_inspectbill_select_py.coverage" NAME="py.test in test_equipmentmanage_inspectmanage_inspectbill_select.py Coverage Results" MODIFIED="1519799702622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_order_batch_py.coverage" NAME="py.test in test_manufacture_order_batch.py Coverage Results" MODIFIED="1524877234290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_release_OrderRelease.coverage" NAME="py.test for test_manufacture_order_release.OrderRelease Coverage Results" MODIFIED="1524878063635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp24.coverage" NAME="tmp24 Coverage Results" MODIFIED="1525833937454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp33.coverage" NAME="tmp33 Coverage Results" MODIFIED="1525834104768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp23.coverage" NAME="tmp23 Coverage Results" MODIFIED="1525833926575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp29.coverage" NAME="tmp29 Coverage Results" MODIFIED="1525834044163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$Unittests_for__Public.coverage" NAME="Unittests for 登录.Public Coverage Results" MODIFIED="1514865914715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/公共部分" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_inspectplan_listselect_py.coverage" NAME="py.test in test_inspectplan_listselect.py Coverage Results" MODIFIED="1519617196030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test_case__2_.coverage" NAME="test_case (2) Coverage Results" MODIFIED="1514862081263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_cases" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp5.coverage" NAME="tmp5 Coverage Results" MODIFIED="1525846132915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_maintainplan_detailselect_py.coverage" NAME="py.test in test_equipmentmanage_maintainmanage_maintainplan_detailselect.py Coverage Results" MODIFIED="1519698448862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_order_public_py.coverage" NAME="py.test in order_public.py Coverage Results" MODIFIED="1524041646311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_modify_OrderModify.coverage" NAME="py.test for test_manufacture_workorder_modify.OrderModify Coverage Results" MODIFIED="1524902984596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_changestatus_OrderChangeStatus_test_order_changestatus_one.coverage" NAME="py.test for test_manufacture_order_changestatus.OrderChangeStatus.test_order_changestatus_one Coverage Results" MODIFIED="1524129698505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_wobom_save_WorkOrderBomSave_test_manufacture_wobom_manual.coverage" NAME="py.test for test_manufacture_wobom_save.WorkOrderBomSave.test_manufacture_wobom_manual Coverage Results" MODIFIED="1524893793656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp4.coverage" NAME="tmp4 Coverage Results" MODIFIED="1525846120941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp34.coverage" NAME="tmp34 Coverage Results" MODIFIED="1525834119305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_release_OrderRelease_test_order_batch_more.coverage" NAME="py.test for test_manufacture_order_release.OrderRelease.test_order_batch_more Coverage Results" MODIFIED="1524877731569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$add.coverage" NAME="add Coverage Results" MODIFIED="1526290367836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工厂建模/工位管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$settings.coverage" NAME="settings Coverage Results" MODIFIED="1516876952758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testweb/testweb" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp10.coverage" NAME="tmp10 Coverage Results" MODIFIED="1525833728959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp13.coverage" NAME="tmp13 Coverage Results" MODIFIED="1525833777036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_Test_test_order_changestatus.coverage" NAME="py.test for tmp.Test.test_order_changestatus Coverage Results" MODIFIED="1524186642399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_savesort_WorkOrderSaveSort_test_workorder_savesort_true.coverage" NAME="py.test for test_manufacture_workorder_savesort.WorkOrderSaveSort.test_workorder_savesort_true Coverage Results" MODIFIED="1524907121469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_Test_test_order_create_planBeginTime_err.coverage" NAME="py.test for test.Test.test_order_create_planBeginTime_err Coverage Results" MODIFIED="1524103065542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$add__2_.coverage" NAME="add (2) Coverage Results" MODIFIED="1523958737694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/设备建模/设备检查部位" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_equipmentmanage_maintainmanage_maintainbill_select_MaintainPlanSelect.coverage" NAME="py.test for test_equipmentmanage_maintainmanage_maintainbill_select.MaintainPlanSelect Coverage Results" MODIFIED="1519709902453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_workorder_WorkOrderCreate.coverage" NAME="py.test for tmp_workorder.WorkOrderCreate Coverage Results" MODIFIED="1524461448697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp9.coverage" NAME="tmp9 Coverage Results" MODIFIED="1525833721408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_workorder_create_py.coverage" NAME="py.test in test_manufacture_workorder_create.py Coverage Results" MODIFIED="1524902947939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$createbasemodedata.coverage" NAME="createbasemodedata Coverage Results" MODIFIED="1520238698427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_listselect_InspectPlanListSelect_test_inspectplan_listselect_.coverage" NAME="py.test for test_inspectplan_listselect.InspectPlanListSelect.test_inspectplan_listselect_ Coverage Results" MODIFIED="1519617184613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_detailselect_InspectPlanDetailSelect_test_inspectplan_detailselect.coverage" NAME="py.test for test_inspectplan_detailselect.InspectPlanDetailSelect.test_inspectplan_detailselect Coverage Results" MODIFIED="1519622393123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_modify_OrderModify_test_order_batch_true.coverage" NAME="py.test for test_manufacture_order_modify.OrderModify.test_order_batch_true Coverage Results" MODIFIED="1524902100172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1525758513759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_batch_OrderBatch_test_order_batch_true.coverage" NAME="py.test for test_manufacture_order_batch.OrderBatch.test_order_batch_true Coverage Results" MODIFIED="1524877261777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_order_layout_py.coverage" NAME="py.test in test_manufacture_order_layout.py Coverage Results" MODIFIED="1524877531542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$bmMaterielInfo.coverage" NAME="bmMaterielInfo Coverage Results" MODIFIED="1522292955574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/物料建模/物料管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$CreateData.coverage" NAME="CreateData Coverage Results" MODIFIED="1527139821915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_equipmentmanage_maintainmanage_maintainbill_select_py.coverage" NAME="py.test in test_equipmentmanage_maintainmanage_maintainbill_select.py Coverage Results" MODIFIED="1519703591600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_inspectplan_create_InspectPlanCreate_test_inspectplan_create_year.coverage" NAME="py.test for test_inspectplan_create.InspectPlanCreate.test_inspectplan_create_year Coverage Results" MODIFIED="1519615859404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_order_public_test_test_order_create_planQty_err.coverage" NAME="py.test for order_public.test.test_order_create_planQty_err Coverage Results" MODIFIED="1524038045982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_equipmentmanage_maintainmanage_maintainbill_select_MaintainPlanSelect_test_maintainbill_detailselect.coverage" NAME="py.test for test_equipmentmanage_maintainmanage_maintainbill_select.MaintainPlanSelect.test_maintainbill_detailselect Coverage Results" MODIFIED="1519709748561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/保养管理/保养单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_manufacture_order_create_py.coverage" NAME="py.test in test_manufacture_order_create.py Coverage Results" MODIFIED="1524042428724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp2__1_.coverage" NAME="tmp2 (1) Coverage Results" MODIFIED="1525830122997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_refecreate_WorkOrderRefeCreate_test_workorder_refecreate_true.coverage" NAME="py.test for test_manufacture_workorder_refecreate.WorkOrderRefeCreate.test_workorder_refecreate_true Coverage Results" MODIFIED="1524881124574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp26.coverage" NAME="tmp26 Coverage Results" MODIFIED="1525833983143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$all_cases.coverage" NAME="all_cases Coverage Results" MODIFIED="1514867787699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_tmp_order_Test_test_order.coverage" NAME="py.test for tmp_order.Test.test_order Coverage Results" MODIFIED="1524218866418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp32.coverage" NAME="tmp32 Coverage Results" MODIFIED="1525834094322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_order_create_OrderCreate_test_order_create_materialGid_none.coverage" NAME="py.test for test_manufacture_order_create.OrderCreate.test_order_create_materialGid_none Coverage Results" MODIFIED="1524036396011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_modify_OrderModify_test_order_batch_true.coverage" NAME="py.test for test_manufacture_workorder_modify.OrderModify.test_order_batch_true Coverage Results" MODIFIED="1524880947465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp2.coverage" NAME="tmp2 Coverage Results" MODIFIED="1525846081046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_test1_test_maintainbill_dispatch_recorded.coverage" NAME="py.test for test.test1.test_maintainbill_dispatch_recorded Coverage Results" MODIFIED="1519713172222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_release_WorkOrderSaveSort_test_workorder_savesort_err1.coverage" NAME="py.test for test_manufacture_workorder_release.WorkOrderSaveSort.test_workorder_savesort_err1 Coverage Results" MODIFIED="1524881289679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$tmp7.coverage" NAME="tmp7 Coverage Results" MODIFIED="1525846162413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_order_public_test_test_order_create_planBeginTime_err.coverage" NAME="py.test for order_public.test.test_order_create_planBeginTime_err Coverage Results" MODIFIED="1524037632027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_order_public_test_test.coverage" NAME="py.test for order_public.test.test Coverage Results" MODIFIED="1524037307669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test_case.coverage" NAME="test_case Coverage Results" MODIFIED="1524039589537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_test_inspectplan_detailselect_py.coverage" NAME="py.test in test_inspectplan_detailselect.py Coverage Results" MODIFIED="1519621807858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/设备管理/点检管理/点检计划" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_for_test_manufacture_workorder_release_WorkOrderRelease_test_workorder_release_true.coverage" NAME="py.test for test_manufacture_workorder_release.WorkOrderRelease.test_workorder_release_true Coverage Results" MODIFIED="1524901430039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$excel.coverage" NAME="excel Coverage Results" MODIFIED="1520242759998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$py_test_in_tmp_order_py.coverage" NAME="py.test in tmp_order.py Coverage Results" MODIFIED="1524216328200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$wobom_public.coverage" NAME="wobom_public Coverage Results" MODIFIED="1524884831990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单BOM" />
+    <SUITE FILE_PATH="coverage/NeuSoftEEP$test_case__3_.coverage" NAME="test_case (3) Coverage Results" MODIFIED="1514862635523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试用例" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="run_cases.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_cases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="e#25#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>table-bordered</find>
+      <find>table-striped</find>
+      <find>table-hover</find>
+      <find>vmod</find>
+      <find>Search</find>
+      <find>form-control input-sm</find>
+      <find>10</find>
+      <find>25</find>
+      <find>popup_window</find>
+      <find>dictArg</find>
+      <find>createurl</find>
+      <find>get_data</find>
+      <find>lcl_data_workorderbom</find>
+      <find>lcl_data_workorder</find>
+      <find>lcl_data_order</find>
+      <find>tmp1</find>
+      <find>MeasurementUnit</find>
+      <find>&quot;http://192.168.138.132</find>
+      <find>'</find>
+      <find>093a52d1204f496b89f0a3ec44d03451</find>
+      <find>3b0e4afd5cf1406b9e52e8f61cfe9b42</find>
+      <find>0ed34e1027ad4a5fa090b6dd9ff0989d</find>
+      <find>dd9476eba77b4bd18d171af766f78e0e</find>
+      <find>aad631b9c1dc4d5b8443324500b50dbd</find>
+      <find>零件</find>
+      <find>requests.post(url, headers, json.dumps(data)).content.decode()</find>
+      <find>json.dumps(data)</find>
+      <find>departmentGid</find>
+      <find>data20</find>
+      <find>bmMeasurementUnitGid</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dictarg</replace>
+      <replace>url</replace>
+      <replace>&quot;`</replace>
+      <replace>BaseUrl + &quot;</replace>
+      <replace>&quot;</replace>
+      <replace>req</replace>
+      <replace>data=json.dumps(data)</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\document\东软慧聚\NeuSoftEEP\workspace</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp19.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp20.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp21.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp22.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp23.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp24.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp25.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp26.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp27.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp28.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp29.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp30.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp31.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp32.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp33.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp34.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp17.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp1.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp2.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp3.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp4.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp5.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp6.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp7.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/查询产品.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/添加子物料.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/查询物料GID.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/查询工序信息.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp1.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp2.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp3.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp4.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp5.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp6.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp7.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/设备信息/创建设备检查部位.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/创建工艺关联工序.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/设备信息/创建设备.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/生产执行/工单/批量创建工单.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单/创建订单.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工厂建模/工位管理/add.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化/CreateData.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化_1.0/生产执行/工单/test_manufacture_workorder_release.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/工单/test_manufacture_workorder_release.py" />
+        <option value="$PROJECT_DIR$/public/params.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试/public_method.py" />
+        <option value="$PROJECT_DIR$/测试用例/test_case.py" />
+        <option value="$PROJECT_DIR$/run_cases.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试/test.py" />
+        <option value="$PROJECT_DIR$/测试用例/接口自动化_V2/接口管理/订单.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="309" />
+    <option name="width" value="1614" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NeuSoftEEP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NeuSoftEEP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NeuSoftEEP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NeuSoftEEP" type="462c0819:PsiDirectoryNode" />
+              <item name="测试用例" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\document\东软慧聚\NeuSoftEEP\测试用例\接口自动化\生产执行\订单" />
+      <recent name="D:\NeuSoftEEP\测试用例\接口自动化\设备管理\点检管理\点检单" />
+      <recent name="D:\NeuSoftEEP\测试用例\接口自动化\设备管理\点检管理\点检计划" />
+      <recent name="D:\NeuSoftEEP\testweb\autotest" />
+      <recent name="D:\NeuSoftEEP\testweb\autotest\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\document\东软慧聚\NeuSoftEEP\测试用例\接口自动化\业务建模\设备信息" />
+      <recent name="D:\document\东软慧聚\NeuSoftEEP\测试用例\接口自动化\业务建模\工艺信息\工艺路线" />
+      <recent name="D:\document\东软慧聚\NeuSoftEEP\测试用例\接口自动化\业务建模\资源建模\产品建模\产品管理" />
+      <recent name="D:\document\东软慧聚\NeuSoftEEP\测试用例\接口自动化\生产执行\订单工艺" />
+      <recent name="D:\document\东软慧聚\NeuSoftEEP\测试用例\接口自动化\生产执行\订单BOM" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_cases">
+    <configuration name="创建工艺关联工序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuSoftEEP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/创建工艺关联工序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="创建订单" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuSoftEEP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试用例/接口自动化/生产执行/订单/创建订单.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="CreateData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试用例/接口自动化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuSoftEEP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试用例/接口自动化/CreateData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="py.test for test.TestPlanOrder.test_planorder_create" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuSoftEEP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestPlanOrder.test_planorder_create&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuSoftEEP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestPlanOrder.test_planorder_create1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuSoftEEP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="run_cases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NeuSoftEEP" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_cases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.run_cases" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CreateData" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test.TestPlanOrder.test_planorder_create" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test.TestPlanOrder.test_planorder_create1" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.run_cases" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test.TestPlanOrder.test_planorder_create1" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test.TestPlanOrder.test_planorder_create" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CreateData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f9a38ec-e511-4598-99a0-6058877fa6e4" name="Default" comment="" />
+      <created>1514529133922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514529133922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 27m 28s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 28m 43s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 29m 43s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 30m 00s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 31m 38s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 32m 16s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 37m 16s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 47m 39s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 48m 37s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_TestPlanOrder_test_planorder_create1 - 2018.07.16 at 13h 49m 15s.xml">
+      <configuration name="py.test for test.TestPlanOrder.test_planorder_create1" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30277187" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30537635" sideWeight="0.26918977" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32829374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30537635" sideWeight="0.7308102" order="2" side_tool="false" content_ui="tabs" x="713" y="288" width="502" height="282" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31935483" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964131" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.4936034" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp30.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp31.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp32.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp33.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp34.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺建模/工序管理/tmp1.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp17.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp2.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp3.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp4.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp5.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp6.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp7.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/资源建模/产品建模/产品管理/tmp1.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/资源建模/产品建模/产品管理/查询产品.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/资源建模/产品建模/产品管理/查询物料GID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/工艺信息/工艺路线/查询工序信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/设备信息/创建设备检查部位.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp7.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp6.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp5.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp4.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp3.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp2.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp1.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化/业务建模/工艺信息/工艺路线/tmp.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/工艺信息/工艺路线/创建工艺关联工序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/资源建模/产品建模/产品管理/添加子物料.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/设备信息/创建设备.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/工单/批量创建工单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="104" column="55" lean-forward="true" selection-start-line="104" selection-start-column="55" selection-end-line="104" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/订单/创建订单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/createbasemodedata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/业务建模/工厂建模/工位管理/add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.py" />
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/公共部分/lcldata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/设备管理/点检管理/点检计划/test_equipmentmanage_inspectmanage_inspectplan_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/CreateData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="824" column="25" lean-forward="false" selection-start-line="824" selection-start-column="4" selection-end-line="824" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/工单/test_manufacture_workorder_release.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/工单/workorder_public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/工单/test_manufacture_workorder_refecreate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/工单/test_manufacture_workorder_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V1/生产执行/工单/test_manufacture_workorder_savesort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V2/接口管理/订单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试/public_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试用例/接口自动化_V2/接口测试/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#25#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
