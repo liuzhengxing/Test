@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-'''this is a doc test, just testing'''
+'''this is a doc test, just testing, continue testing again'''
 
 name1 ='liuzhengxing'
 
