@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 import unittest
-from APIProject.Basic.API准备.testJenkins.TestSele_public import *
+# from APIProject.Basic.API准备.testJenkins.TestSele_public import *
 
 class TestUnitTest(unittest.TestCase):
     def setUp(self):
@@ -20,3 +20,5 @@ class TestUnitTest(unittest.TestCase):
         # logOut()
         print("test teardown")
 
+if __name__ == '__main__':
+    unittest.main()

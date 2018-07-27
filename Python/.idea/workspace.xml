@@ -1,57 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c09e4c77-18f4-4ce7-9a23-6660018c8fff" name="Default" comment="" />
+    <list default="true" id="c09e4c77-18f4-4ce7-9a23-6660018c8fff" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIProject/Basic/testGlobal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIProject/Basic/testSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIProject/Basic/test_unittest4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$testMock1.coverage" NAME="testMock1 Coverage Results" MODIFIED="1531474694412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
-    <SUITE FILE_PATH="coverage/Python$Unittests_for_testMock_TestCount_test_add.coverage" NAME="Unittests for testMock.TestCount.test_add Coverage Results" MODIFIED="1531725595819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="括号 Coverage Results" MODIFIED="1531725389422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
-    <SUITE FILE_PATH="coverage/Python$pip_ini.coverage" NAME="建立pip.ini Coverage Results" MODIFIED="1531996717155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
-    <SUITE FILE_PATH="coverage/Python$learn.coverage" NAME="learn Coverage Results" MODIFIED="1528853845477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
-    <SUITE FILE_PATH="coverage/Python$python.coverage" NAME="python写接口 Coverage Results" MODIFIED="1530520365299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
-    <SUITE FILE_PATH="coverage/Python$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1530776332655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
-    <SUITE FILE_PATH="coverage/Python$TestSeleniumExcel.coverage" NAME="TestSeleniumExcel Coverage Results" MODIFIED="1530871030796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$test_unittest4.coverage" NAME="test_unittest4 Coverage Results" MODIFIED="1532664031139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_for_TestSele_TestUnitTest.coverage" NAME="Unittests for TestSele.TestUnitTest Coverage Results" MODIFIED="1532659341123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
     <SUITE FILE_PATH="coverage/Python$json.coverage" NAME="验证json格式 Coverage Results" MODIFIED="1531726776769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备" />
-    <SUITE FILE_PATH="coverage/Python$mockAPI.coverage" NAME="mockAPI Coverage Results" MODIFIED="1531473483772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
-    <SUITE FILE_PATH="coverage/Python$TestSelenium.coverage" NAME="TestSelenium Coverage Results" MODIFIED="1530859221375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
-    <SUITE FILE_PATH="coverage/Python$Unittests_for_testUnittest_TestUnitTest.coverage" NAME="Unittests for testUnittest.TestUnitTest Coverage Results" MODIFIED="1532075445454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
-    <SUITE FILE_PATH="coverage/Python$Unittests_for_TestSele_TestUnitTest_testTwo.coverage" NAME="Unittests for TestSele.TestUnitTest.testTwo Coverage Results" MODIFIED="1532077644106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_for_testUnittest_TestUnitTest.coverage" NAME="Unittests for testUnittest.TestUnitTest Coverage Results" MODIFIED="1532412179022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="括号 Coverage Results" MODIFIED="1531725389422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_for_TestSele_TestUnitTest_testTwo.coverage" NAME="Unittests for TestSele.TestUnitTest.testTwo Coverage Results" MODIFIED="1532412805215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$testMock1.coverage" NAME="testMock1 Coverage Results" MODIFIED="1531474694412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$testSelf.coverage" NAME="testSelf Coverage Results" MODIFIED="1532672143095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
+    <SUITE FILE_PATH="coverage/Python$pip_ini.coverage" NAME="建立pip.ini Coverage Results" MODIFIED="1531996717155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
+    <SUITE FILE_PATH="coverage/Python$TestSeleniumExcel.coverage" NAME="TestSeleniumExcel Coverage Results" MODIFIED="1530871030796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$python.coverage" NAME="python写接口 Coverage Results" MODIFIED="1530520365299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_in_testUnittest_py.coverage" NAME="Unittests in testUnittest.py Coverage Results" MODIFIED="1532670981158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
+    <SUITE FILE_PATH="coverage/Python$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1530776332655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$learn.coverage" NAME="learn Coverage Results" MODIFIED="1528853845477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
     <SUITE FILE_PATH="coverage/Python$Unittests_in_testMock_py.coverage" NAME="Unittests in testMock.py Coverage Results" MODIFIED="1531727469168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_for_TestSele_TestUnitTest_testOne.coverage" NAME="Unittests for TestSele.TestUnitTest.testOne Coverage Results" MODIFIED="1532414799362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$mockAPI.coverage" NAME="mockAPI Coverage Results" MODIFIED="1531473483772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_for_testMock_TestCount_test_add.coverage" NAME="Unittests for testMock.TestCount.test_add Coverage Results" MODIFIED="1531725595819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$Unittests_in_TestSele_py.coverage" NAME="Unittests in TestSele.py Coverage Results" MODIFIED="1532658813410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+    <SUITE FILE_PATH="coverage/Python$testGlobal.coverage" NAME="testGlobal Coverage Results" MODIFIED="1532663360650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic" />
+    <SUITE FILE_PATH="coverage/Python$TestSelenium.coverage" NAME="TestSelenium Coverage Results" MODIFIED="1530859221375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1423775896">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="731" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="731" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testUnittest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIProject/Basic/testUnittest.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testSelf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="603">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSele_public.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_public.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APIProject/Basic/test_unittest4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="621">
-              <caret line="25" column="18" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="18" />
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <marker date="1532664028801" expanded="true" signature="244:253" ph="..." />
+                <marker date="1532664028801" expanded="true" signature="244:273" ph="..." />
+                <marker date="1532664028801" expanded="true" signature="291:300" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSele.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APIProject/Basic/testGlobal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="459">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#19#34#0" expanded="true" />
+                <marker date="1532663358794" expanded="true" signature="178:183" ph="..." />
+                <marker date="1532663358794" expanded="true" signature="178:204" ph="..." />
+                <marker date="1532663358794" expanded="true" signature="220:225" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APIProject/Basic/testUnittest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/APIProject/Basic/testSelf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="14" />
+              <folding>
+                <marker date="1532672140872" expanded="true" signature="31:36" ph="..." />
+                <marker date="1532672140872" expanded="true" signature="90:95" ph="..." />
+                <marker date="1532672140872" expanded="true" signature="207:212" ph="..." />
+                <marker date="1532672140872" expanded="true" signature="207:225" ph="..." />
               </folding>
             </state>
           </provider>
@@ -65,6 +142,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>anticon anticon-logout</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,9 +168,13 @@
         <option value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testMock.py" />
         <option value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testKwargs.py" />
         <option value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSelenium.py" />
-        <option value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_public.py" />
         <option value="$PROJECT_DIR$/APIProject/Basic/testUnittest.py" />
+        <option value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_public.py" />
+        <option value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testSelf.py" />
         <option value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele.py" />
+        <option value="$PROJECT_DIR$/APIProject/Basic/testGlobal.py" />
+        <option value="$PROJECT_DIR$/APIProject/Basic/test_unittest4.py" />
+        <option value="$PROJECT_DIR$/APIProject/Basic/testSelf.py" />
       </list>
     </option>
   </component>
@@ -95,14 +184,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="309" />
     <option name="width" value="1614" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -171,8 +258,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/PycharmProjects/NeuSoftEEP_API_Test" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -200,27 +287,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for TestSele.TestUnitTest.testTwo">
-    <configuration name="验证json格式" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIProject/Basic/API准备" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIProject/Basic/API准备/验证json格式.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="建立pip.ini" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.testSelf">
+    <configuration name="testGlobal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,13 +301,60 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIProject/Basic/建立pip.ini.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIProject/Basic/testGlobal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="Unittests for TestSele.TestUnitTest.testTwo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="testSelf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIProject/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIProject/Basic/testSelf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_unittest4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIProject/Basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIProject/Basic/test_unittest4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TestSele.TestUnitTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,10 +365,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestSele.TestUnitTest.testTwo&quot;" />
+      <option name="_new_target" value="&quot;TestSele.TestUnitTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
-    <configuration name="Unittests for testUnittest.TestUnitTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in testUnittest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,37 +380,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testUnittest.TestUnitTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="Unittests in testMock.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testMock.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/APIProject/Basic/testUnittest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in testMock.py" />
-      <item itemvalue="Python.验证json格式" />
-      <item itemvalue="Python.建立pip.ini" />
-      <item itemvalue="Python tests.Unittests for testUnittest.TestUnitTest" />
-      <item itemvalue="Python tests.Unittests for TestSele.TestUnitTest.testTwo" />
+      <item itemvalue="Python tests.Unittests for TestSele.TestUnitTest" />
+      <item itemvalue="Python.test_unittest4" />
+      <item itemvalue="Python.testGlobal" />
+      <item itemvalue="Python tests.Unittests in testUnittest.py" />
+      <item itemvalue="Python.testSelf" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for TestSele.TestUnitTest.testTwo" />
-        <item itemvalue="Python tests.Unittests for testUnittest.TestUnitTest" />
-        <item itemvalue="Python.建立pip.ini" />
-        <item itemvalue="Python tests.Unittests in testMock.py" />
-        <item itemvalue="Python.验证json格式" />
+        <item itemvalue="Python.testSelf" />
+        <item itemvalue="Python tests.Unittests in testUnittest.py" />
+        <item itemvalue="Python.test_unittest4" />
+        <item itemvalue="Python.testGlobal" />
+        <item itemvalue="Python tests.Unittests for TestSele.TestUnitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -309,65 +412,81 @@
       <option name="presentableId" value="Default" />
       <updated>1528853031173</updated>
     </task>
+    <task id="LOCAL-00001" summary="修改了setup和teardown">
+      <created>1532425754203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532425754203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改了setup和teardown">
+      <created>1532654435955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532654435955</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_testMock_py - 2018.07.16 at 15h 24m 11s.xml">
-      <configuration name="Unittests in testMock.py" configurationId="tests" />
+    <history-entry file="Unittests_for_TestSele_TestUnitTest - 2018.07.24 at 14h 51m 48s.xml">
+      <configuration name="Unittests for TestSele.TestUnitTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testMock_py - 2018.07.16 at 15h 25m 00s.xml">
-      <configuration name="Unittests in testMock.py" configurationId="tests" />
+    <history-entry file="Unittests_for_TestSele_TestUnitTest - 2018.07.25 at 15h 58m 30s.xml">
+      <configuration name="Unittests for TestSele.TestUnitTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testMock_py - 2018.07.16 at 15h 27m 52s.xml">
-      <configuration name="Unittests in testMock.py" configurationId="tests" />
+    <history-entry file="Unittests_for_TestSele_TestUnitTest - 2018.07.25 at 15h 59m 28s.xml">
+      <configuration name="Unittests for TestSele.TestUnitTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testMock_py - 2018.07.16 at 15h 30m 23s.xml">
-      <configuration name="Unittests in testMock.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TestSele_py - 2018.07.27 at 10h 32m 10s.xml">
+      <configuration name="Unittests in TestSele.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testMock_py - 2018.07.16 at 15h 44m 39s.xml">
-      <configuration name="Unittests in testMock.py" configurationId="tests" />
+    <history-entry file="Unittests_for_TestSele_TestUnitTest - 2018.07.27 at 10h 32m 39s.xml">
+      <configuration name="Unittests for TestSele.TestUnitTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testMock_py - 2018.07.16 at 15h 45m 39s.xml">
-      <configuration name="Unittests in testMock.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TestSele_py - 2018.07.27 at 10h 33m 16s.xml">
+      <configuration name="Unittests in TestSele.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testMock_py - 2018.07.16 at 15h 51m 09s.xml">
-      <configuration name="Unittests in testMock.py" configurationId="tests" />
+    <history-entry file="Unittests_in_TestSele_py - 2018.07.27 at 10h 33m 33s.xml">
+      <configuration name="Unittests in TestSele.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testUnittest_TestUnitTest - 2018.07.19 at 18h 41m 48s.xml">
-      <configuration name="Unittests for testUnittest.TestUnitTest" configurationId="tests" />
+    <history-entry file="Unittests_for_TestSele_TestUnitTest - 2018.07.27 at 10h 38m 30s.xml">
+      <configuration name="Unittests for TestSele.TestUnitTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_testUnittest_TestUnitTest - 2018.07.20 at 16h 30m 46s.xml">
-      <configuration name="Unittests for testUnittest.TestUnitTest" configurationId="tests" />
+    <history-entry file="Unittests_for_TestSele_TestUnitTest - 2018.07.27 at 10h 42m 21s.xml">
+      <configuration name="Unittests for TestSele.TestUnitTest" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_TestSele_TestUnitTest_testTwo - 2018.07.20 at 17h 07m 46s.xml">
-      <configuration name="Unittests for TestSele.TestUnitTest.testTwo" configurationId="tests" />
+    <history-entry file="Unittests_in_testUnittest_py - 2018.07.27 at 13h 56m 21s.xml">
+      <configuration name="Unittests in testUnittest.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33926898" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.213125" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.218509" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32946146" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21209213" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39962476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32946146" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,148 +495,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改了setup和teardown" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了setup和teardown" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/读excel拼成BOM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_Excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/读excel拼成BOM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_Excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/读excel拼成BOM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_public.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/建立pip.ini.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/a.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_public.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/建立pip.ini.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/创建质检项.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/python写接口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/建立pip.ini.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/python写接口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/python写接口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/python写接口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/python写接口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/建立pip.ini.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APIProject/Basic/testPycharm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -603,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testKwargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/mockAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -661,6 +636,29 @@
     <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJson.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://E:/Python36-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testKwargs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/test_unittest3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/test_unittest1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/test_unittest2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_Excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -668,26 +666,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/testUnittest.py">
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="351">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1532659337995" expanded="true" signature="101:103" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele_public.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="738">
+          <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/TestSele.py">
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/API准备/testJenkins/testSelf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="603">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/test_unittest4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#19#34#0" expanded="true" />
+            <marker date="1532664028801" expanded="true" signature="244:253" ph="..." />
+            <marker date="1532664028801" expanded="true" signature="244:273" ph="..." />
+            <marker date="1532664028801" expanded="true" signature="291:300" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/testGlobal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1532663358794" expanded="true" signature="178:183" ph="..." />
+            <marker date="1532663358794" expanded="true" signature="178:204" ph="..." />
+            <marker date="1532663358794" expanded="true" signature="220:225" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/testUnittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIProject/Basic/testSelf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <marker date="1532672140872" expanded="true" signature="31:36" ph="..." />
+            <marker date="1532672140872" expanded="true" signature="90:95" ph="..." />
+            <marker date="1532672140872" expanded="true" signature="207:212" ph="..." />
+            <marker date="1532672140872" expanded="true" signature="207:225" ph="..." />
           </folding>
         </state>
       </provider>
