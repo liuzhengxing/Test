@@ -10,6 +10,7 @@ from selenium import webdriver
 import time
 import random
 
+
 browser = webdriver.Chrome()
 # url = "http://192.168.138.132/neusoftEEP_web/login"
 url = "http://192.168.138.191:9080/neusoftEEP_web"
