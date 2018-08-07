@@ -1,7 +1,7 @@
 # encoding = utf -8
 
 import  unittest
-from APIProject.Basic.API准备.testJenkins.TestSele_publicMethod import PublicMethod as PM
+from Python.APIProject.Basic.API准备.testJenkins.TestSele_publicMethod import PublicMethod as PM
 
 class TestSelenium(unittest.TestCase):
 
