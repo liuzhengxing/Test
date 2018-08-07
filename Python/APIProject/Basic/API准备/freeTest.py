@@ -15,8 +15,23 @@
 #     a = a + 0.001
 # print(a)3
 
-str = '123'
-print(str.center(20,"*"))
+class A():
+    def FA1(self):
+        self.A1 = 10
+
+    def FA2(self):
+        self.A1 = 11
+
+    def FA3(self):
+        A3 = 12
+
+# a = A()
+# a.FA3()
+# print(a.A3)
+
+import time
+print(time.gmtime())
+
 
 
 
